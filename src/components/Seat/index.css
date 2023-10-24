@@ -1,0 +1,11 @@
+.seat-button {
+  background-color: transparent;
+
+  cursor: pointer;
+  text-align: center;
+  border: 0;
+}
+.seat-icon {
+  height: 22px;
+  width: 22px;
+}

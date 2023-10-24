@@ -1,0 +1,60 @@
+.layout-container {
+  padding: 20px;
+  height: 100%;
+  width: 80%;
+  overflow: auto;
+  border: 1px solid black;
+}
+.main-container {
+  display: flex;
+  height: 80%;
+  width: 100%;
+}
+.seats-main-heading {
+  font-weight: bold;
+}
+.seats-reference {
+  padding-left: 15px;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+
+  width: 20%;
+}
+.each-seat {
+  display: flex;
+  align-items: center;
+  color: grey;
+  font-size: 18px;
+}
+.top-two {
+  margin-left: 80px;
+}
+.trier-2-1 {
+  margin-left: 200px;
+}
+.trier-2-2 {
+  margin-left: 150px;
+}
+.row-name {
+  font-size: 20px;
+  font-weight: 500;
+}
+.special {
+  margin-left: 100px;
+}
+.seat {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+.row-container {
+  display: flex;
+  align-items: center;
+}
+.row-special {
+  margin-left: 40px;
+}
+.trier-2-1-special {
+  margin-left: 60px;
+}
